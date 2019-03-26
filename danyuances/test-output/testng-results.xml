@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="43" started-at="2018-12-29T02:49:10Z" finished-at="2018-12-29T02:49:10Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="43" started-at="2018-12-29T02:49:10Z" finished-at="2018-12-29T02:49:10Z">
+      <class name="danyuances.NewTest1">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:danyuances.NewTest1@66048bfd]" name="beforeClass" is-config="true" duration-ms="7" started-at="2018-12-29T10:49:10Z" finished-at="2018-12-29T10:49:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testSs()[pri:0, instance:danyuances.NewTest1@66048bfd]" name="testSs" duration-ms="4" started-at="2018-12-29T10:49:10Z" finished-at="2018-12-29T10:49:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSs -->
+        <test-method status="PASS" signature="testSss()[pri:0, instance:danyuances.NewTest1@66048bfd]" name="testSss" duration-ms="0" started-at="2018-12-29T10:49:10Z" finished-at="2018-12-29T10:49:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSss -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:danyuances.NewTest1@66048bfd]" name="afterClass" is-config="true" duration-ms="0" started-at="2018-12-29T10:49:10Z" finished-at="2018-12-29T10:49:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- danyuances.NewTest1 -->
+      <class name="danyuances.NewTest">
+        <test-method status="PASS" signature="testAdd()[pri:0, instance:danyuances.NewTest@61443d8f]" name="testAdd" duration-ms="2" started-at="2018-12-29T10:49:10Z" finished-at="2018-12-29T10:49:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAdd -->
+        <test-method status="PASS" signature="testChu()[pri:0, instance:danyuances.NewTest@61443d8f]" name="testChu" duration-ms="0" started-at="2018-12-29T10:49:10Z" finished-at="2018-12-29T10:49:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testChu -->
+        <test-method status="PASS" signature="testJi()[pri:0, instance:danyuances.NewTest@61443d8f]" name="testJi" duration-ms="0" started-at="2018-12-29T10:49:10Z" finished-at="2018-12-29T10:49:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testJi -->
+        <test-method status="PASS" signature="testSs()[pri:0, instance:danyuances.NewTest@61443d8f]" name="testSs" duration-ms="1" started-at="2018-12-29T10:49:10Z" finished-at="2018-12-29T10:49:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSs -->
+        <test-method status="PASS" signature="testSss()[pri:0, instance:danyuances.NewTest@61443d8f]" name="testSss" duration-ms="2" started-at="2018-12-29T10:49:10Z" finished-at="2018-12-29T10:49:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSss -->
+        <test-method status="PASS" signature="testSub()[pri:0, instance:danyuances.NewTest@61443d8f]" name="testSub" duration-ms="2" started-at="2018-12-29T10:49:10Z" finished-at="2018-12-29T10:49:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSub -->
+      </class> <!-- danyuances.NewTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
