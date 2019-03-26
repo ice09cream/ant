@@ -8,7 +8,8 @@
 	<property name="dest.report" value="report" />
 
 	<path id="jarfile">
-		<fileset dir="lib" includes="testng-6.5.1.jar" />
+		<fileset dir="lib" includes="testng.jar" />
+		<fileset dir="lib" includes="selenium-server-standalone-2.53.0.jar" />
 	</path>
 
 	<!-- delete the output folder if it exists -->
@@ -23,7 +24,7 @@
 		<!-- do copy -->
 
 		<!-- compile -->
-		<javac srcdir="${src.dir}" destdir="${dest.dir}" encoding="UTF-8" debug="true" fork="yes">
+		<javac srcdir="${src.dir}" destdir="${dest.dir}" includeAntRuntime="false" encoding="UTF-8" debug="true" fork="yes">
 			<classpath refid="jarfile" />
 		</javac>
 
